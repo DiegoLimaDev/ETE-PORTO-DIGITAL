@@ -1,0 +1,16 @@
+programa {
+	funcao inicio() {
+			real nota1, nota2, media
+		escreva("Digite sua primeira nota: ")
+		leia(nota1)
+		escreva("Digite sua segunda nota: ")
+		leia(nota2)
+		
+		media= (nota1 + nota2)/2
+		escreva("Sua média no primeiro trimestre foi: " + media)
+		se(media>6)
+		escreva("\nParabens! Você foi aprovado")
+		senao
+		escreva("\nVocê está na recuperação")
+	}
+}
