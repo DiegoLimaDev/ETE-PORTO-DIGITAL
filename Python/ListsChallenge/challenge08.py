@@ -1,4 +1,4 @@
-##This code asks for 5 names and 5 heights and print the reverse order inputed
+##This code asks for 5 names and 5 heights and prints the reverse order inputed
 
 names = []
 heights = []

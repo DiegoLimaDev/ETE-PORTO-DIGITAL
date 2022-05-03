@@ -1,4 +1,4 @@
-##This codes makes two lists and print a third list with the elements interleaved
+##This codes makes two lists and prints a third list with the elements interleaved
 
 numbers = []
 characters = []

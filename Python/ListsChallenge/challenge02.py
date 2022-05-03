@@ -1,4 +1,4 @@
-##This code asks for 10 real numbers, makes a list with them and print on the inverse order
+##This code asks for 10 real numbers, makes a list with them and print on the reverse order
 
 numbers = []
 for i in range (0, 10):
